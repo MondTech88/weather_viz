@@ -4,7 +4,7 @@ Weather visualization app using the openweather api.
 
 ## Screens
 
-<img src="assets/screens/screen.png"alt="Screen" width="290"/>
+<img src="assets/screens/screen.png" alt="Screen" width="290"/>
 
 This project is a starting point for a Flutter application.
 
