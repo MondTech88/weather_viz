@@ -1,0 +1,1 @@
+const kelvinConstant = 273.15;
